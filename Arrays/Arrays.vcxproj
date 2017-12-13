@@ -111,6 +111,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Aufgabe1.c" />
+    <ClCompile Include="Aufgabe2.c" />
+    <ClCompile Include="Aufgabe3.c" />
+    <ClCompile Include="Aufgabe4.c" />
+    <ClCompile Include="Aufgabe5.c" />
+    <ClCompile Include="Aufgabe6.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
